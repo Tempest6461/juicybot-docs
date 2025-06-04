@@ -1,8 +1,12 @@
+---
+title: JuicyBot Legal
+---
+
 # JuicyBot Legal
 
-Welcome to the official documentation for JuicyBot.
+Welcome to the official legal documentation for JuicyBot.
 
-Here you'll find our terms of service and privacy policy.
+Here you'll find everything you need to know about using the bot and how we handle your data.
 
 ---
 
@@ -14,8 +18,8 @@ Our rules for using the bot.
 
 ### 🔒 [Privacy Policy](./privacy.md)
 
-How we handle your data and privacy.
+How we handle your data and protect your privacy.
 
 ---
 
-If you have any questions, feel free to contact the developer via Discord at: `@nwotempest`
+If you have any questions or concerns, contact the developer via Discord at `@nwotempest`.
