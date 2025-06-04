@@ -1,3 +1,8 @@
+---
+title: Terms of Service
+---
+
+
 # Terms of Service
 
 Effective Date: 06/04/2025
