@@ -1,3 +1,8 @@
+---
+title: Privacy Policy
+---
+
+
 # Privacy Policy
 
 Effective Date: 06/04/2025
