@@ -18,4 +18,4 @@ How we handle your data and privacy.
 
 ---
 
-If you have any questions, feel free to contact the developer at: `@YourDiscordTagHere`
+If you have any questions, feel free to contact the developer via Discord at: `@nwotempest`
